@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "402774384012",
+    "project_id": "webrtc-a9dca",
+    "storage_bucket": "webrtc-a9dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402774384012:android:50bb0c679328330f068aa9",
+        "android_client_info": {
+          "package_name": "com.mbilarus.webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402774384012-lehk4iouvkg2n7t7ed5aqkkhc5k85ed3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCyiWuxynof2V4osNyBpiWEz4qoOyZMow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402774384012-lehk4iouvkg2n7t7ed5aqkkhc5k85ed3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402774384012-a1q2rlfrpjhgqvdorep1h3gjnjfa2bnn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mbilarus.webrtc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
